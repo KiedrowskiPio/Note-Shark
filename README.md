@@ -1,31 +1,31 @@
 # NoteShark
 
-Notatnik stworzony pod system operacyjny Android, wykorzystujący autoryzację oraz bazę danych Firebase.
+Notatnik stworzony pod system operacyjny Android, wykorzystujący autoryzację oraz bazę danych Firebase.<br/>
 
-## Aplikacja działa dzięki usłudze Firestore 
-![Autoryzacja Firestore](Screenshots/FirestoreAuth.png)
-![Kolekcja Notatek](Screenshots/FirestoreCollections.png)
+## Aplikacja działa dzięki usłudze Firestore <br/>
+![Autoryzacja Firestore](Screenshots/FirestoreAuth.png)<br/>
+![Kolekcja Notatek](Screenshots/FirestoreCollections.png)<br/>
 
-Notatki uporządkowane w kolekcje "sortedNotes" na bazie UID użytkownika.
-Użytkownicy logują się do aplikacji za pomocą swojego konta Google.
+Notatki uporządkowane w kolekcje "sortedNotes" na bazie UID użytkownika.<br/>
+Użytkownicy logują się do aplikacji za pomocą swojego konta Google.<br/>
 
 ## Funkcjonalności
-### Aplikacja posiada funkcjonalości:
-Wyświetlanie notatek dodanych przez danego użytkownika
+### Aplikacja posiada funkcjonalości:<br/>
+Wyświetlanie notatek dodanych przez danego użytkownika<br/>
 ![Main Activity](Screenshots/MainActivity.png)
 
 
-Dodawanie notatek
-![Dodaj notatkę](Screenshots/AddNote.png)
-![Kod dodający notatki](Screenshots/AddNoteCode.png)
+Dodawanie notatek<br/>
+![Dodaj notatkę](Screenshots/AddNote.png)<br/>
+![Kod dodający notatki](Screenshots/AddNoteCode.png)<br/>
 
 
-Wyświetlanie notatek
-![Wyświetlenie notatki](Screenshots/ShowNote.png)
+Wyświetlanie notatek<br/>
+![Wyświetlenie notatki](Screenshots/ShowNote.png)<br/>
 
 
-Po zalogowaniu wyświetlany jest Toast z zalogowanym emailem
-![Toast](Screenshots/ToastLogin.png)
+Po zalogowaniu wyświetlany jest Toast z zalogowanym emailem<br/>
+![Toast](Screenshots/ToastLogin.png)<br/>
 
 
 
