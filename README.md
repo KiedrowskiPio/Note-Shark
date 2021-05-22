@@ -12,7 +12,7 @@ Użytkownicy logują się do aplikacji za pomocą swojego konta Google.
 ## Funkcjonalności
 ### Aplikacja posiada funkcjonalości:
 Wyświetlanie notatek dodanych przez danego użytkownika
-![Main Activity](Screenshots/FMainActivity.png)
+![Main Activity](Screenshots/MainActivity.png)
 
 
 Dodawanie notatek
